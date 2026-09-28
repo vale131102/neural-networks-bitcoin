@@ -29,7 +29,7 @@ Predictive performance is evaluated over three time horizons: **1 hour**, **1 da
 | File | Description |
 |---|---|
 | `script_ML_completo.ipynb` | Python notebook with the full preprocessing: price aggregation, tweet filtering, sentiment analysis with CryptoBERT, dataset merging and volatility computation |
-| `Workflow.knwf` | KNIME workflow with the final preprocessing, lag construction, neural network training (CNN and LSTM) and evaluation |
+| `Workflow.knwf` | KNIME workflow with the final preprocessing, lag construction, neural network training (CNN and LSTM) and evaluation (not included, too large: ask for it) |
 | `dataset_knime.csv` | Final dataset produced by the notebook, used as input for the KNIME workflow |
 | `fear_and_greed_index.csv` | Daily Crypto Fear & Greed Index |
 | `dataset_sin_spam.csv` | Tweet dataset (**not included**, too large: see Datasets section) |
