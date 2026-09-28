@@ -1,6 +1,6 @@
 [README_neural network.md](https://github.com/user-attachments/files/32767790/README_neural.network.md)
 # neural-networks-bitcoin
-Forecasts Bitcoin log returns with CNN and LSTM models, combining hourly market data, CryptoBERT tweet sentiment, and the Fear &amp; Greed Index (2019). 📄 README in English, remaining materials in Italian. 📩 For access to the large datasets, contact me via email (vale131102@gmail.com) or LinkedIn (link below).
+Forecasts Bitcoin log returns with CNN and LSTM models, combining hourly market data, CryptoBERT tweet sentiment, and the Fear &amp; Greed Index (2019). 📄 README in English, remaining materials in Italian. 📩 For access to the large datasets and knime workflow contact me via email (vale131102@gmail.com) or LinkedIn (link below).
 # Bitcoin Log Return Analysis with CNN and LSTM
 
 A Machine Learning project that attempts to analyze **Bitcoin log returns** using Deep Learning architectures, combining market data with **social sentiment and engagement metrics**.
